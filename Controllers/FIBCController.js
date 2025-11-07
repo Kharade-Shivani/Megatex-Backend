@@ -2,7 +2,7 @@ const FIBCModel = require("../Models/FIBCModel");
 const cloudinary = require("../config/cloudinaryConfig");
 require("dotenv").config();
 
-// 🟢 Create FIBC
+// 🟢 Create FIBCCCCC
 const create_FIBC = async (req, res) => {
   try {
     let fibcData = {
